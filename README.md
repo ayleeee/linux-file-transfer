@@ -2,6 +2,13 @@
 
 이 레포지토리는 개발 서버와 운영 서버 간의 파일 전송 방법에 대해 다룹니다.
 
+## 사용 기술
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
 ## 목차
 1. [Linux 서버 파일 공유 방법](#linux-서버-파일-공유-방법)
 2. [프로젝트 워크플로: 개발 서버와 운영 서버 간 JAR 파일 자동 전송 및 업데이트](#프로젝트-워크플로-개발-서버와-운영-서버-간-jar-파일-자동-전송-및-업데이트)
